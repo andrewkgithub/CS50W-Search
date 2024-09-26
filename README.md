@@ -14,8 +14,8 @@ This project was created as part of Harvard's CS50 Web Programming course. It in
 ## Pages:
 
 - `index.html`: Main search page.
-- `image_search.html`: Google Image Search page.
-- `advanced_search.html`: Google Advanced Search page.
+- `images.html`: Google Image Search page.
+- `advanced.html`: Google Advanced Search page.
 
 ## How to Run:
 
